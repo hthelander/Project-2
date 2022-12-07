@@ -31,9 +31,9 @@ Bureau of Transportation Statistics- https://www.bts.gov/covid-19
 
 <strong>TRANSFORM</strong>
 
-The data sources were transformed into dataframes that were cleaned to only show to the most important data within the datasets. The 'Remote Working Survey' and 'Predict if people prefer WFH vs WFO pos Covid-19' datasets were joined to allow ease of visualization. 
+The data sources were transformed into dataframes that were cleaned to only show the most important data within the datasets. The 'Remote Working Survey' and 'Predict if people prefer WFH vs WFO pos Covid-19' datasets were joined to allow ease of visualization. 
 
-The Bureau of Transportation and Statistics dataset was kept seperate to allow the user to draw their own conclusions related to the data. 
+The Bureau of Transportation and Statistics dataset was kept seperate to allow the user to draw their own conclusions related to the data. Due to this dataset providing the actual amount of people who worked from home vs work in the office, pre and post COVID-19.  
 
 <strong>LOAD</strong>
 The transformed data was loaded into PostgreSQL, a relational database. 
