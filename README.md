@@ -46,7 +46,16 @@ The Bureau of Transportation and Statistics dataset was joined with the WFH vs. 
 
 <strong>LOAD</strong>
 
-The transformed data was loaded into PostgreSQL, a relational database. This topic was chosen to determine useful and relevant trends in data related to remote office work. This data can be utlized to assist employers in determining wether the remote work culture is beneficial for their employees and work environment. 
+The transformed data was loaded into PostgreSQL, a relational database. This topic was chosen to determine useful and relevant trends in data related to remote office work. 
+<br>
+The data was loaded into six different tables in PostgreSQL:
+<br>
+1. Travel-number of trips and distance traveled
+2. WFH vs. WFO-number of people working at home and not at home post COVID-19
+3. Preferences for working at home
+4. rws_comb- Variables related to remote work in the years of 2020 and 2021
+
+This data can be utlized to assist employers in determining wether the remote work culture is beneficial for their employees and work environment. 
 
 ## Conclusion 
 
