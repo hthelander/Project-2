@@ -30,8 +30,10 @@ Jupyter notebook as well as pandas and postgreSQL were used in this analysis to 
 The following sources were utlized to extract data:
 
 Kaggle-Remote Working Survey-https://www.kaggle.com/datasets/melodyyiphoiching/remote-working-survey<br>
+
 Kaggle-Predict if people prefer WFH vs WFO post Covid-19-https://www.kaggle.com/datasets/anninasimon/predict-if-people-prefer-wfh-verses-wfo-data?
 resource=download&select=WFH_WFO_dataset.csv <br>
+
 Bureau of Transportation Statistics- https://www.bts.gov/covid-19
 
 The data was formatted in csv files. 
