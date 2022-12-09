@@ -49,7 +49,9 @@ The transformed data was loaded into PostgreSQL, a relational database. This top
 
 1. Between the data collected, the age of workers that were surveryed were between early-20s and mid-60s. From the data collected, the user can determine if age effects factors related to remote work such as; stress level, saving money, work-life-balance, productivity, etc.
 <br>
+
 2. Engineers, tutors, business owners, administrators, and many more were surveyed for the data. These groups were also broken into managerial or non-managerial columns within one of the data sets. Based on this wide range of information, it can be useful for the user to determine if there could be trends related to specific industries and wether or not management has a strong effect on remote work. 
 <br>
+
 3. The effects of travel in the United States was greatly impacted by the increase in remote work. The data provided breaks down the number of people staying at home vs. not staying at home by month. The user can look at these trends and correlate the timeline to real world events as well as the two sets of data to determine if remote work had a strong effect on travel.
 
