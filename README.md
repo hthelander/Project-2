@@ -42,9 +42,10 @@ The data was formatted in csv files.
 
 The data sources were transformed into dataframes that were cleaned to only show the most important data within the datasets. The 'Remote Working Survey' and 'Predict if people prefer WFH vs WFO post COVID-19' datasets were joined to allow ease of visualization. 
 
-The Bureau of Transportation and Statistics dataset was joined with the WFH vs. WFO dataset. This allows the user to visualize multiple variables from two different aspects of data to draw conclusions on the impact of travel pre and post COVID-19. .  
+The Bureau of Transportation and Statistics dataset was joined with the WFH vs. WFO dataset. This allows the user to visualize multiple variables from two different aspects of data to draw conclusions on the impact of travel pre and post COVID-19.   
 
 <strong>LOAD</strong>
+
 The transformed data was loaded into PostgreSQL, a relational database. This topic was chosen to determine useful and relevant trends in data related to remote office work. This data can be utlized to assist employers in determining wether the remote work culture is beneficial for their employees and work environment. 
 
 ## Conclusion 
